@@ -23,6 +23,7 @@ Versão testada: Ubuntu 18.04.3 LTS
 	sudo apt-get install software-properties-common -y && 
 	sudo apt-get install ubuntu-restricted-extras -y && 
 	sudo apt-get install unace unrar zip unzip p7zip-full p7zip-rar sharutils rar -y && 
+	sudo apt-get install unity-tweak-tool -y && 
 	sudo apt-get install bleachbit -y && 
 	sudo apt-get install git-all -y && 
 
