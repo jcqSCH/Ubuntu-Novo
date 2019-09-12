@@ -38,7 +38,7 @@ Versão testada: Ubuntu 18.04.3 LTS
 
 	sudo apt-get update && 
 
-	sudo apt-get install numix-kde-theme numix-icon-theme-circle numix-icon-theme-square -y && 
+	sudo apt-get install numix-gtk-theme numix-icon-theme-circle numix-icon-theme-square -y && 
 	sudo apt-get install qbittorrent -y && 
 	sudo apt-get install inkscape -y && 
 	sudo apt-get install smplayer smplayer-themes smplayer-skins -y && 
