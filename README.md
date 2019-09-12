@@ -27,19 +27,18 @@ Versão testada: Ubuntu 18.04.3 LTS
 	sudo apt-get install unity-tweak-tool -y && 
 	sudo apt-get install bleachbit -y && 
 	sudo apt-get install git-all -y && 
+	sudo apt-get install inkscape -y && 
 	sudo apt install numix-gtk-theme numix-icon-theme -y && 
 
 	sudo apt-get update && 
 
 	sudo add-apt-repository ppa:danielrichter2007/grub-customizer -y && 
 	sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable -y && 
-	sudo add-apt-repository ppa:inkscape.dev/stable -y && 
 	sudo add-apt-repository ppa:rvm/smplayer -y && 
 
 	sudo apt-get update && 
 
 	sudo apt-get install qbittorrent -y && 
-	sudo apt-get install inkscape -y && 
 	sudo apt-get install smplayer smplayer-themes smplayer-skins -y && 
 	sudo apt-get install mpv -y
 
@@ -75,27 +74,22 @@ Baixar temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
 
 <br/>
 
-### 3.3 – Barra Superior:
->**Ordem:** Menu de Aplicativos, Gerenciador de Tarefas com Ícones, Lixeira, Área de Notificação, Bloquear/Encerrar, Relógio, Área de Trabalho
-
-<br/>
-
-### 3.4 – Spotify:
-	sudo kate /usr/share/applications/spotify.desktop
+### 3.3 – Spotify:
+	sudo gedit /usr/share/applications/spotify.desktop
 >**Substituir:** Exec=spotify %U <br/>
 >**Por:** Exec=spotify %U --force-device-scale-factor=1.25
 
 <br/>
 
-### 3.5 – Firefox:
+### 3.4 – Firefox:
 	about:config
 >**Substituir:** layout.css.devPixelsPerPx; 1 <br/>
 >**Por:** layout.css.devPixelsPerPx; 1.25
 
 <br/>
 
-### 3.6 – Google Chrome:
-	sudo kate /usr/share/applications/google-chrome.desktop
+### 3.5 – Google Chrome:
+	sudo gedit /usr/share/applications/google-chrome.desktop
 >**Substituir:** Exec=/usr/bin/google-chrome-stable %U <br/>
 >**Por:** Exec=/usr/bin/google-chrome-stable --force-device-scale-factor=1.175 %U
 
