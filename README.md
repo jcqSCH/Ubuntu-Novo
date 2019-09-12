@@ -38,6 +38,7 @@ Versão testada: Ubuntu 18.04.3 LTS
 
 	sudo apt-get update && 
 
+	sudo apt-get install grub-customizer -y && 
 	sudo apt-get install qbittorrent -y && 
 	sudo apt-get install smplayer smplayer-themes smplayer-skins -y && 
 	sudo apt-get install mpv -y
