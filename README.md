@@ -15,7 +15,7 @@ Versão testada: Ubuntu 18.04.3 LTS
 	sudo apt-get update && 
 
 	sudo apt install ubuntu-unity-desktop -y && 
-	sudo apt purge ubuntu-web-launchers && 
+	sudo apt purge ubuntu-web-launchers -y && 
 
 	sudo apt-get update && 
 
