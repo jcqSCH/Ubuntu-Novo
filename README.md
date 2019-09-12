@@ -27,18 +27,17 @@ Versão testada: Ubuntu 18.04.3 LTS
 	sudo apt-get install unity-tweak-tool -y && 
 	sudo apt-get install bleachbit -y && 
 	sudo apt-get install git-all -y && 
+	sudo apt install numix-gtk-theme numix-icon-theme -y && 
 
 	sudo apt-get update && 
 
 	sudo add-apt-repository ppa:danielrichter2007/grub-customizer -y && 
-	sudo add-apt-repository ppa:numix/ppa -y && 
 	sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable -y && 
 	sudo add-apt-repository ppa:inkscape.dev/stable -y && 
 	sudo add-apt-repository ppa:rvm/smplayer -y && 
 
 	sudo apt-get update && 
 
-	sudo apt-get install numix-gtk-theme numix-icon-theme-circle numix-icon-theme-square -y && 
 	sudo apt-get install qbittorrent -y && 
 	sudo apt-get install inkscape -y && 
 	sudo apt-get install smplayer smplayer-themes smplayer-skins -y && 
