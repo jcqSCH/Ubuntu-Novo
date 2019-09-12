@@ -19,6 +19,7 @@ Versão testada: Ubuntu 18.04.3 LTS
 
 	sudo apt-get update && 
 
+	sudo apt-get install plank -y && 
 	sudo apt-get install libreoffice-style-sifr -y && 
 	sudo apt-get install software-properties-common -y && 
 	sudo apt-get install ubuntu-restricted-extras -y && 
@@ -30,8 +31,6 @@ Versão testada: Ubuntu 18.04.3 LTS
 	sudo apt-get update && 
 
 	sudo add-apt-repository ppa:danielrichter2007/grub-customizer -y && 
-	sudo add-apt-repository ppa:nemh/systemback -y && 
-	sudo add-apt-repository ppa:docky-core/stable -y && 
 	sudo add-apt-repository ppa:numix/ppa -y && 
 	sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable -y && 
 	sudo add-apt-repository ppa:inkscape.dev/stable -y && 
@@ -39,9 +38,6 @@ Versão testada: Ubuntu 18.04.3 LTS
 
 	sudo apt-get update && 
 
-	sudo apt-get install grub-customizer -y && 
-	sudo apt-get install systemback -y && 
-	sudo apt-get install plank -y && 
 	sudo apt-get install numix-kde-theme numix-icon-theme-circle numix-icon-theme-square -y && 
 	sudo apt-get install qbittorrent -y && 
 	sudo apt-get install inkscape -y && 
