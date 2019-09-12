@@ -14,8 +14,8 @@ Versão testada: Ubuntu 18.04.3 LTS
 ## 2 ➜ EXECUTAR COMANDOS NO TERMINAL
 	sudo apt-get update && 
 
-	sudo apt install ubuntu-unity-desktop -y && 
 	sudo apt purge ubuntu-web-launchers -y && 
+	sudo apt install ubuntu-unity-desktop -y && 
 
 	sudo apt-get update && 
 
@@ -28,6 +28,7 @@ Versão testada: Ubuntu 18.04.3 LTS
 	sudo apt-get install bleachbit -y && 
 	sudo apt-get install git-all -y && 
 	sudo apt-get install inkscape -y && 
+	sudo apt-get install dolphin -y && 
 	sudo apt install numix-gtk-theme numix-icon-theme -y && 
 
 	sudo apt-get update && 
