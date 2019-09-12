@@ -14,6 +14,11 @@ Versão testada: Ubuntu 18.04.3 LTS
 ## 2 ➜ EXECUTAR COMANDOS NO TERMINAL
 	sudo apt-get update && 
 
+	sudo apt install ubuntu-unity-desktop -y && 
+	sudo apt purge ubuntu-web-launchers && 
+
+	sudo apt-get update && 
+
 	sudo apt-get install kde-l10n-ptbr -y && 
 	sudo apt-get install libreoffice-l10n-pt-br -y && 
 	sudo apt-get install libreoffice-style-sifr -y && 
