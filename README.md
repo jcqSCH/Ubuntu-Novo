@@ -59,7 +59,7 @@ Baixar temas: https://github.com/jcqSCH/Plank-Themes/archive/master.zip
 |  Ícones:         |  68                       |
 |  Zoom:           |  125                      |
 
->**Ordem:** Dolphin, Terminal, Spotify, Firefox, Chrome, VS Code, KCalc, Writer, Impress, KSysGuard, System Settings
+>**Ordem:** Arquivos, Terminal, Spotify, Firefox, Chrome, VS Code, Writer, Calculadora, Monitor do Sistema, Unity Tweak, Configuraçes do Sistema
 
 <br/>
 
