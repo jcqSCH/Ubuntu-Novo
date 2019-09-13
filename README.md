@@ -30,6 +30,7 @@ Versão testada: Ubuntu 18.04.3 LTS
 	sudo apt-get install inkscape -y && 
 	sudo apt install numix-gtk-theme numix-icon-theme -y && 
 	sudo apt install curl -y && 
+	sudo apt install nautilus-admin -y && 
 
 	sudo apt-get update && 
 
@@ -85,7 +86,7 @@ Baixar temas: https://github.com/jcqSCH/Plank-Themes/archive/master.zip
 
 ### 3.4 – Firefox:
 	about:config
->**Substituir:** layout.css.devPixelsPerPx; 1 <br/>
+>**Substituir:** layout.css.devPixelsPerPx; -1 <br/>
 >**Por:** layout.css.devPixelsPerPx; 1.25
 
 <br/>
