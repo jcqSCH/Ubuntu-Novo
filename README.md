@@ -97,7 +97,7 @@ Baixar temas: https://github.com/jcqSCH/Plank-Themes/archive/master.zip
 ## 4 ➜ DICAS
 
 ### 4.1 – Abrir pastas como Administrador:
-	kdesudo dolphin /usr/share/icons
+	sudo nautilus /usr/share/icons
 > Edite a parte `/usr/share/icons` no comando acima, caso queira acessar outro diretório.
 
 <br/>
