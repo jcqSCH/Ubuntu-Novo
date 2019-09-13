@@ -64,16 +64,12 @@ Baixar temas: https://github.com/jcqSCH/Plank-Themes/archive/master.zip
 <br/>
 
 ### 3.2 – Fontes do Sistema:
-|  Configurações   |             …             |
-|       ---        |            ---            |
-|  Geral:          |  Segoe WP 14              |
-|  Largura fixa:   |  Courier 10 Pitch 16      |
-|  Pequena:        |  Segoe WP 13              |
-|  Barra:          |  Segoe WP 13              |
-|  Menu:           |  Segoe WP 14              |
-|  Título:         |  Segoe WP 14 ( negrito )  |
-|        …         |             …             |
-|  Anti-aliasing   | Habilitado, RGB, Leve     |
+|  Configurações        |               …                |
+|          ---          |              ---               |
+|  Fonte padrão:        |  Helvetica Neue Regular, 12    |
+|  Fonte de documento:  |  Helvetica Neue Regular, 12    |
+|  Fonte monoespaçada:  |  Helvetica Monospaced W1G, 13  |
+|  Fonte de título:     |  Helvetica Neue Regular, 12    |
 
 <br/>
 
