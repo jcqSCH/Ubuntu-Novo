@@ -36,12 +36,14 @@ Versão testada: Ubuntu 18.04.3 LTS
 
 	sudo add-apt-repository ppa:danielrichter2007/grub-customizer -y && 
 	sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable -y && 
+	sudo add-apt-repository ppa:plushuang-tw/uget-stable -y && 
 	sudo add-apt-repository ppa:rvm/smplayer -y && 
 
 	sudo apt-get update && 
 
 	sudo apt-get install grub-customizer -y && 
 	sudo apt-get install qbittorrent -y && 
+	sudo apt-get install uget -y && 
 	sudo apt-get install smplayer smplayer-themes smplayer-skins -y && 
 	sudo apt-get install mpv -y
 
