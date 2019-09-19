@@ -121,3 +121,17 @@ Baixar temas: https://github.com/jcqSCH/Plank-Themes/archive/master.zip
 	sudo chown -R “$USER” ~/.local/share/Trash
 > Edite a parte `“$USER”` no comando acima e digite o seu nome de usuário no Kubuntu (sem aspas).
 - Fonte: http://askubuntu.com/questions/288513/cant-move-files-to-the-trash
+
+### 4.5 – Sumblime Text
+
+	{
+	"color_scheme": "Packages/Panda Syntax Sublime/Panda/panda-syntax.tmTheme",
+	"font_face": "Anonymous Pro Minus",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme",
+	"ui_scale": 1.5
+	}
