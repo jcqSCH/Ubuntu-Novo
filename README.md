@@ -122,7 +122,12 @@ Baixar temas: https://github.com/jcqSCH/Plank-Themes/archive/master.zip
 > Edite a parte `“$USER”` no comando acima e digite o seu nome de usuário no Kubuntu (sem aspas).
 - Fonte: http://askubuntu.com/questions/288513/cant-move-files-to-the-trash
 
-### 4.5 – Sumblime Text
+### 4.5 – Recuperar GRUB perdido após atualização do Windows (dual boot):
+	bcdedit /set "{bootmgr}" path \EFI\ubuntu\grubx64.efi
+> Rodar o PowerShell como Administrador no Windows para recuperar o GRUB.
+- Fonte: https://askubuntu.com/questions/655011/windows-10-upgrade-kills-grub-and-boot-repair-doesnt-help
+
+### 4.6 – Sumblime Text
 
 	{
 	"color_scheme": "Packages/Panda Syntax Sublime/Panda/panda-syntax.tmTheme",
