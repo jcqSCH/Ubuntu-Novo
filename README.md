@@ -1,5 +1,5 @@
 # UBUNTU: o que fazer depois de formatar?
-Lista de tarefas para executar após a instalação do Kubuntu no computador. <br/>
+Lista de tarefas para executar após a instalação do Ubuntu no computador. <br/>
 Versão testada: Ubuntu 18.04.3 LTS
 
 <br/>
@@ -104,7 +104,7 @@ Baixar temas: https://github.com/jcqSCH/Plank-Themes/archive/master.zip
 
 <br/>
 
-### 4.2 – Desmontar a partição do Windows estando logado no Kubuntu:
+### 4.2 – Desmontar a partição do Windows estando logado no Ubuntu:
 	mount -o ro /dev/sda2
 > Edite a parte `sda2` no comando acima se essa não for a partição em que seu Windows está instalado.
 - Fonte: http://askubuntu.com/questions/335909/error-mounting-dev-sda2-at-media
@@ -119,7 +119,7 @@ Baixar temas: https://github.com/jcqSCH/Plank-Themes/archive/master.zip
 
 ### 4.4 – Corrigir bug da lixeira que não permite excluir arquivos:
 	sudo chown -R “$USER” ~/.local/share/Trash
-> Edite a parte `“$USER”` no comando acima e digite o seu nome de usuário no Kubuntu (sem aspas).
+> Edite a parte `“$USER”` no comando acima e digite o seu nome de usuário no Ubuntu (sem aspas).
 - Fonte: http://askubuntu.com/questions/288513/cant-move-files-to-the-trash
 
 <br/>
