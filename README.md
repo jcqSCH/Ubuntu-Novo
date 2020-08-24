@@ -15,8 +15,7 @@ Versão testada: Ubuntu 20.04.1 LTS
 ## 2 ➜ EXECUTAR COMANDOS NO TERMINAL
 	sudo apt-get update && 
 
-	sudo apt purge ubuntu-web-launchers -y && 
-	sudo apt install ubuntu-unity-desktop --install-suggests -y && 
+	sudo apt install ubuntu-unity-desktop -y && 
 
 	sudo apt-get update && 
 
