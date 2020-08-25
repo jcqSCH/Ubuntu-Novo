@@ -35,6 +35,7 @@ Versão testada: Ubuntu 18.04.5 LTS
 	sudo apt-get update && 
 
 	sudo add-apt-repository ppa:danielrichter2007/grub-customizer -y && 
+	sudo add-apt-repository ppa:slimbook/slimbook -y && 
 	sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable -y && 
 	sudo add-apt-repository ppa:inkscape.dev/stable -y && 
 	sudo add-apt-repository ppa:plushuang-tw/uget-stable -y && 
@@ -43,6 +44,7 @@ Versão testada: Ubuntu 18.04.5 LTS
 	sudo apt-get update && 
 
 	sudo apt-get install grub-customizer -y && 
+	sudo apt-get install slimbookbattery -y && 
 	sudo apt-get install qbittorrent -y && 
 	sudo apt-get install inkscape -y && 
 	sudo apt-get install uget -y && 
