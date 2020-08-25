@@ -1,6 +1,6 @@
 # UBUNTU: o que fazer depois de formatar?
 Lista de tarefas para executar após a instalação do Ubuntu no computador. <br/>
-Versão testada: Ubuntu 18.04.3 LTS
+Versão testada: Ubuntu 18.04.5 LTS
 
 <br/>
 
@@ -15,7 +15,7 @@ Versão testada: Ubuntu 18.04.3 LTS
 ## 2 ➜ EXECUTAR COMANDOS NO TERMINAL
 	sudo apt-get update && 
 
-	sudo apt purge ubuntu-web-launchers -y && 
+	# sudo apt purge ubuntu-web-launchers -y && 	# NÃO É MAIS NECESSÁRIO
 	sudo apt install ubuntu-unity-desktop -y && 
 
 	sudo apt-get update && 
@@ -28,7 +28,6 @@ Versão testada: Ubuntu 18.04.3 LTS
 	sudo apt-get install unity-tweak-tool -y && 
 	sudo apt-get install bleachbit -y && 
 	sudo apt-get install git-all -y && 
-	sudo apt-get install inkscape -y && 
 	sudo apt install numix-gtk-theme numix-icon-theme -y && 
 	sudo apt install curl -y && 
 	sudo apt install nautilus-admin -y && 
@@ -37,6 +36,7 @@ Versão testada: Ubuntu 18.04.3 LTS
 
 	sudo add-apt-repository ppa:danielrichter2007/grub-customizer -y && 
 	sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable -y && 
+	sudo add-apt-repository ppa:inkscape.dev/stable -y && 
 	sudo add-apt-repository ppa:plushuang-tw/uget-stable -y && 
 	sudo add-apt-repository ppa:rvm/smplayer -y && 
 
@@ -44,6 +44,7 @@ Versão testada: Ubuntu 18.04.3 LTS
 
 	sudo apt-get install grub-customizer -y && 
 	sudo apt-get install qbittorrent -y && 
+	sudo apt-get install inkscape -y && 
 	sudo apt-get install uget -y && 
 	sudo apt-get install smplayer smplayer-themes smplayer-skins -y && 
 	sudo apt-get install mpv -y
