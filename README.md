@@ -15,7 +15,7 @@ Versão testada: Ubuntu 18.04.5 LTS
 ## 2 ➜ EXECUTAR COMANDOS NO TERMINAL
 	sudo apt-get update && 
 
-	# sudo apt purge ubuntu-web-launchers -y && 	# NÃO É MAIS NECESSÁRIO
+	# NÃO É MAIS NECESSÁRIO # sudo apt purge ubuntu-web-launchers -y && 
 	sudo apt install ubuntu-unity-desktop -y && 
 
 	sudo apt-get update && 
