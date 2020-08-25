@@ -22,6 +22,7 @@ Versão testada: Ubuntu 18.04.5 LTS
 
 	sudo apt-get install plank -y && 
 	sudo apt-get install libreoffice-style-sifr -y && 
+	sudo apt-get install python3-pip -y && 
 	sudo apt-get install software-properties-common -y && 
 	sudo apt-get install ubuntu-restricted-extras -y && 
 	sudo apt-get install unace unrar zip unzip p7zip-full p7zip-rar sharutils rar -y && 
