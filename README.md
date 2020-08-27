@@ -115,7 +115,7 @@ Baixar temas: https://github.com/jcqSCH/Plank-Themes/archive/master.zip
 "font_size": 12,
 "ignored_packages":
 [
-	"Vintage"
+"Vintage"
 ],
 "theme": "Adaptive.sublime-theme",
 "ui_scale": 1.5
