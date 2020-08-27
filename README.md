@@ -87,17 +87,17 @@ Baixar temas: https://github.com/jcqSCH/Plank-Themes/archive/master.zip
 
 <br/>
 
-### ~3.4 – Firefox: (não é mais necessário)~
-	~about:config~
+### ~3.4 – Firefox (não é mais necessário):~
+	about:config
 >~**Substituir:** layout.css.devPixelsPerPx; -1~ <br/>
 >~**Por:** layout.css.devPixelsPerPx; 1.25~
 
 <br/>
 
-### 3.5 – Google Chrome:
+### ~3.5 – Google Chrome (não é mais necessário):~
 	sudo gedit /usr/share/applications/google-chrome.desktop
->**Substituir:** Exec=/usr/bin/google-chrome-stable %U <br/>
->**Por:** Exec=/usr/bin/google-chrome-stable --force-device-scale-factor=1.175 %U
+>~**Substituir:** Exec=/usr/bin/google-chrome-stable %U~ <br/>
+>~**Por:** Exec=/usr/bin/google-chrome-stable --force-device-scale-factor=1.175 %U~
 
 <br/>
 
