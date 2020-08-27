@@ -109,17 +109,17 @@ Baixar temas: https://github.com/jcqSCH/Plank-Themes/archive/master.zip
 
 ### ~3.7 – Sumblime Text~
 
-	~{
-	"color_scheme": "Packages/Panda Syntax Sublime/Panda/panda-syntax.tmTheme",
-	"font_face": "Anonymous Pro Minus",
-	"font_size": 12,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"theme": "Adaptive.sublime-theme",
-	"ui_scale": 1.5
-	}~
+~{
+"color_scheme": "Packages/Panda Syntax Sublime/Panda/panda-syntax.tmTheme",
+"font_face": "Anonymous Pro Minus",
+"font_size": 12,
+"ignored_packages":
+[
+	"Vintage"
+],
+"theme": "Adaptive.sublime-theme",
+"ui_scale": 1.5
+}~
 
 <br/>
 
