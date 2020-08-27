@@ -87,7 +87,7 @@ Baixar temas: https://github.com/jcqSCH/Plank-Themes/archive/master.zip
 
 <br/>
 
-### 3.4 – Firefox:
+### ~3.4 – Firefox:~
 	about:config
 >**Substituir:** layout.css.devPixelsPerPx; -1 <br/>
 >**Por:** layout.css.devPixelsPerPx; 1.25
