@@ -149,3 +149,7 @@ Baixar temas: https://github.com/jcqSCH/Plank-Themes/archive/master.zip
 	"theme": "Adaptive.sublime-theme",
 	"ui_scale": 1.5
 	}
+
+### 4.7 – VS Code
+
+	'Code Saver', 'Apercu Pro Mono', 'Anonymous Pro Minus', 'Droid Sans Mono', 'Source Code Pro', 'monospace', monospace, 'Droid Sans Fallback'
