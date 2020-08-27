@@ -73,10 +73,10 @@ Baixar temas: https://github.com/jcqSCH/Plank-Themes/archive/master.zip
 ### 3.2 – Fontes do Sistema:
 |  Configurações        |               …                |
 |          ---          |              ---               |
-|  Fonte padrão:        |  Helvetica Neue Regular, 12    |
-|  Fonte de documento:  |  Helvetica Neue Regular, 12    |
-|  Fonte monoespaçada:  |  Helvetica Monospaced W1G, 13  |
-|  Fonte de título:     |  Helvetica Neue Regular, 12    |
+|  Fonte padrão:        |  Inter Regular, 12    |
+|  Fonte de documento:  |  Inter Regular, 12    |
+|  Fonte monoespaçada:  |  Maax Mono Regular, 13  |
+|  Fonte de título:     |  Inter Medium, 12    |
 
 <br/>
 
