@@ -58,7 +58,7 @@ Versão testada: Ubuntu 18.04.5 LTS
 
 ## 3 ➜ CONFIGURAÇÕES
 ### 3.1 – Plank:
-Baixar temas: https://github.com/jcqSCH/Plank-Themes/archive/master.zip
+Baixar temas: https://github.com/kennyh7279/plank-themes
 
 |  Configurações   |             …             |
 |       ---        |            ---            |
