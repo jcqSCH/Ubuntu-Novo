@@ -71,12 +71,15 @@ Baixar temas: https://github.com/kennyh7279/plank-themes
 <br/>
 
 ### 3.2 – Fontes do Sistema:
-|  Configurações        |               …                |
-|          ---          |              ---               |
-|  Fonte padrão:        |  Inter Regular, 12    |
-|  Fonte de documento:  |  Inter Regular, 12    |
+|  Configurações        |            …            |
+|          ---          |           ---           |
+|  Fonte padrão:        |  Inter Regular, 12      |
+|  Fonte de documento:  |  Inter Regular, 12      |
 |  Fonte monoespaçada:  |  Maax Mono Regular, 13  |
-|  Fonte de título:     |  Inter Medium, 12    |
+|  Fonte de título:     |  Inter Medium, 12       |
+|          ---          |           ---           |
+|  Suavização:          |  RGBA                   |
+|  Hinting:             |  Médio                  |
 
 <br/>
 
