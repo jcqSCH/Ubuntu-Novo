@@ -77,7 +77,7 @@ Baixar temas: https://github.com/kennyh7279/plank-themes
 |  Fonte de documento:  |  Inter Regular, 12      |
 |  Fonte monoespaçada:  |  Maax Mono Regular, 13  |
 |  Fonte de título:     |  Inter Medium, 12       |
-|          ---          |           ---           |
+|  -------------------  |  ---------------------  |
 |  Suavização:          |  RGBA                   |
 |  Fator escalonamento: |  1,00                   |
 |  Hinting:             |  Médio                  |
