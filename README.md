@@ -79,6 +79,7 @@ Baixar temas: https://github.com/kennyh7279/plank-themes
 |  Fonte de título:     |  Inter Medium, 12       |
 |          ---          |           ---           |
 |  Suavização:          |  RGBA                   |
+|  Fator escalonamento: |  1,00                   |
 |  Hinting:             |  Médio                  |
 
 <br/>
