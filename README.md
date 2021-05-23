@@ -79,7 +79,7 @@ Baixar temas: https://github.com/kennyh7279/plank-themes
 |  Fonte de documento:  |  Inter Regular ➜ 11,5   |
 |  Fonte monoespaçada:  |  Maax Mono Regular ➜ 13 |
 |  Fonte de título:     |  Inter Medium ➜ 11,5    |
-|  ⠀  |  ⠀  |
+|           ⠀           |            ⠀            |
 |  Suavização:          |  RGBA                   |
 |  Fator escalonamento: |  1,00                   |
 |  Hinting:             |  Médio                  |
@@ -110,6 +110,7 @@ Baixar temas: https://github.com/kennyh7279/plank-themes
 ### 3.6 – VS Code
 
 	'Code Saver', 'Apercu Pro Mono', 'Anonymous Pro Minus', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'
+**Font Size:** 14
 
 <br/>
 
