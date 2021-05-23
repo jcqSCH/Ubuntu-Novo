@@ -68,7 +68,7 @@ Baixar temas: https://github.com/kennyh7279/plank-themes
 |  Ícones:         |  68                       |
 |  Zoom:           |  125                      |
 
->**Ordem:** Arquivos, Terminal, Spotify, Firefox, Chrome, VS Code, Writer, Calculadora, Monitor do Sistema, Unity Tweak, Configuraçes do Sistema
+>**Ordem:** Arquivos, Terminal, Spotify, Firefox, VS Code, Writer, Calculadora, Unity Tweak, Configuraçes do Sistema
 
 <br/>
 
@@ -93,28 +93,14 @@ Baixar temas: https://github.com/kennyh7279/plank-themes
 
 <br/>
 
-### ~3.4 – Firefox (não é mais necessário):~
-	about:config
->~**Substituir:** layout.css.devPixelsPerPx; -1~ <br/>
->~**Por:** layout.css.devPixelsPerPx; 1.25~
-
-<br/>
-
-### ~3.5 – Google Chrome (não é mais necessário):~
-	sudo gedit /usr/share/applications/google-chrome.desktop
->~**Substituir:** Exec=/usr/bin/google-chrome-stable %U~ <br/>
->~**Por:** Exec=/usr/bin/google-chrome-stable --force-device-scale-factor=1.175 %U~
-
-<br/>
-
-### 3.6 – VS Code
+### 3.4 – VS Code
 
 	'Code Saver', 'Apercu Pro Mono', 'Anonymous Pro Minus', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'
 **Font Size:** 14
 
 <br/>
 
-### ~3.7 – Sumblime Text~
+### ~3.5 – Sumblime Text~
 
 ~{
 "color_scheme": "Packages/Panda Syntax Sublime/Panda/panda-syntax.tmTheme",
@@ -127,6 +113,20 @@ Baixar temas: https://github.com/kennyh7279/plank-themes
 "theme": "Adaptive.sublime-theme",
 "ui_scale": 1.5
 }~
+
+<br/>
+
+### ~3.6 – Firefox (não é mais necessário):~
+	about:config
+>~**Substituir:** layout.css.devPixelsPerPx; -1~ <br/>
+>~**Por:** layout.css.devPixelsPerPx; 1.25~
+
+<br/>
+
+### ~3.7 – Google Chrome (não é mais necessário):~
+	sudo gedit /usr/share/applications/google-chrome.desktop
+>~**Substituir:** Exec=/usr/bin/google-chrome-stable %U~ <br/>
+>~**Por:** Exec=/usr/bin/google-chrome-stable --force-device-scale-factor=1.175 %U~
 
 <br/>
 
