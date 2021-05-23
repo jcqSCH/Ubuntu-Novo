@@ -1,6 +1,8 @@
 # UBUNTU: o que fazer depois de formatar?
 Lista de tarefas para executar após a instalação do Ubuntu no computador. <br/>
 Versão testada: Ubuntu 18.04.5 LTS
+<br/>
+https://ubuntu.com/download/alternative-downloads#bittorrent
 
 <br/>
 
