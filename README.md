@@ -96,7 +96,7 @@ Baixar temas: https://github.com/kennyh7279/plank-themes
 ### 3.4 – VS Code
 
 	'Code Saver', 'Apercu Pro Mono', 'Anonymous Pro Minus', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'
-**Font Size:** 14
+>**Font Size:** 14
 
 <br/>
 
