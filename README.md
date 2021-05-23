@@ -97,6 +97,7 @@ Baixar temas: https://github.com/kennyh7279/plank-themes
 |  Atalhos:         |  Sublime Text Keymap and Settings Importer  |
 |  Ícones:          |  Material Icon Theme, by Philipp Kief       |
 |  Tema:            |  Monokai Pro, by monokai                    |
+|  Terminal:        |  PowerShell                                 |
 
 <br/>
 
