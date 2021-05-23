@@ -86,17 +86,23 @@ Baixar temas: https://github.com/kennyh7279/plank-themes
 
 <br/>
 
-### 3.3 – Spotify:
-	sudo gedit /usr/share/applications/spotify.desktop
->**Substituir:** Exec=spotify %U <br/>
->**Por:** Exec=spotify %U --force-device-scale-factor=1.25
-
-<br/>
-
-### 3.4 – VS Code
+### 3.3 – VS Code
 
 	'Code Saver', 'Apercu Pro Mono', 'Anonymous Pro Minus', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'
 >**Font Size:** 14
+
+|  Configurações        |            …            |
+|          ---          |           ---           |
+|  Fonte padrão:        |  Inter Regular ➜ 11,5   |
+|           ⠀           |            ⠀            |
+|  Hinting:             |  Médio                  |
+
+<br/>
+
+### 3.4 – Spotify:
+	sudo gedit /usr/share/applications/spotify.desktop
+>**Substituir:** Exec=spotify %U <br/>
+>**Por:** Exec=spotify %U --force-device-scale-factor=1.25
 
 <br/>
 
