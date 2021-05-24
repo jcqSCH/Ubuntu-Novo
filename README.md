@@ -32,6 +32,7 @@ https://ubuntu.com/download/alternative-downloads#bittorrent
 	sudo apt-get install bleachbit -y && 
 	sudo apt-get install git-all -y && 
 	sudo apt-get install qbittorrent -y && 
+	sudo apt install qt5-style-plugins -y && 
 	sudo apt install numix-gtk-theme numix-icon-theme -y && 
 	sudo apt install curl -y && 
 	sudo apt install nautilus-admin -y && 
