@@ -1,6 +1,6 @@
 # UBUNTU: o que fazer depois de formatar?
 Lista de tarefas para executar após a instalação do Ubuntu no computador. <br/>
-Versão testada: Ubuntu 18.04.5 LTS
+Versão testada: Ubuntu 20.04.2 LTS
 <br/>
 https://ubuntu.com/download/alternative-downloads#bittorrent
 
@@ -17,12 +17,12 @@ https://ubuntu.com/download/alternative-downloads#bittorrent
 ## 2 ➜ EXECUTAR COMANDOS NO TERMINAL
 	sudo apt-get update && 
 
-	# NÃO É MAIS NECESSÁRIO # sudo apt purge ubuntu-web-launchers -y && 
 	sudo apt install ubuntu-unity-desktop -y && 
 
 	sudo apt-get update && 
 
 	sudo apt-get install plank -y && 
+	sudo apt-get install grub-customizer -y && 
 	sudo apt-get install libreoffice-style-sifr -y && 
 	sudo apt-get install python3-pip -y && 
 	sudo apt-get install software-properties-common -y && 
@@ -31,24 +31,21 @@ https://ubuntu.com/download/alternative-downloads#bittorrent
 	sudo apt-get install unity-tweak-tool -y && 
 	sudo apt-get install bleachbit -y && 
 	sudo apt-get install git-all -y && 
+	sudo apt-get install qbittorrent -y && 
 	sudo apt install numix-gtk-theme numix-icon-theme -y && 
 	sudo apt install curl -y && 
 	sudo apt install nautilus-admin -y && 
 
 	sudo apt-get update && 
 
-	sudo add-apt-repository ppa:danielrichter2007/grub-customizer -y && 
 	sudo add-apt-repository ppa:slimbook/slimbook -y && 
-	sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable -y && 
 	sudo add-apt-repository ppa:inkscape.dev/stable -y && 
 	sudo add-apt-repository ppa:plushuang-tw/uget-stable -y && 
 	sudo add-apt-repository ppa:rvm/smplayer -y && 
 
 	sudo apt-get update && 
 
-	sudo apt-get install grub-customizer -y && 
 	sudo apt-get install slimbookbattery -y && 
-	sudo apt-get install qbittorrent -y && 
 	sudo apt-get install inkscape -y && 
 	sudo apt-get install uget -y && 
 	sudo apt-get install smplayer smplayer-themes smplayer-skins -y && 
@@ -78,7 +75,7 @@ Baixar temas: https://github.com/kennyh7279/plank-themes
 |  Fonte padrão:        |  Inter Regular ➜ 11,5   |
 |  Fonte de documento:  |  Inter Regular ➜ 11,5   |
 |  Fonte monoespaçada:  |  Maax Mono Regular ➜ 13 |
-|  Fonte de título:     |  Inter Medium ➜ 11,5    |
+|  Fonte de título:     |  Inter Medium ➜ 12      |
 |           ⠀           |            ⠀            |
 |  Suavização:          |  RGBA                   |
 |  Fator escalonamento: |  1,00                   |
@@ -87,7 +84,13 @@ Baixar temas: https://github.com/kennyh7279/plank-themes
 <br/>
 
 ### 3.3 – VS Code
-	'Code Saver', 'Apercu Pro Mono', 'Anonymous Pro Minus', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'
+	{
+	    "workbench.colorTheme": "Monokai Classic",
+	    "workbench.iconTheme": "material-icon-theme",
+	    "editor.fontFamily": "'Code Saver', 'Apercu Pro Mono', 'Anonymous Pro Minus', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+	    "window.zoomLevel": 0.8,
+	    "editor.fontWeight": "500"
+	}
 >**Font Size:** 14
 
 <br/>
