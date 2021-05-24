@@ -1,4 +1,4 @@
-# UBUNTU 18.04.05 LTS: o que fazer depois de formatar?
+# UBUNTU 18.04.5 LTS: o que fazer depois de formatar?
 Lista de tarefas para executar após a instalação do Ubuntu no computador. <br/>
 Versão testada: Ubuntu 18.04.5 LTS
 <br/>
@@ -172,4 +172,3 @@ Baixar temas: https://github.com/kennyh7279/plank-themes
 - Fonte: https://askubuntu.com/questions/655011/windows-10-upgrade-kills-grub-and-boot-repair-doesnt-help
 
 <br/>
-
