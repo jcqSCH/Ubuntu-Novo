@@ -1,4 +1,4 @@
-# UBUNTU 20.04.2 LTS: o que fazer depois de formatar?
+# UBUNTU 20 LTS: o que fazer depois de formatar?
 Lista de tarefas para executar após a instalação do Ubuntu no computador. <br/>
 Versão testada: Ubuntu 20.04.2 LTS
 <br/>
