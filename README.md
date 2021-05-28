@@ -29,6 +29,7 @@ https://ubuntu.com/download/alternative-downloads#bittorrent
 	sudo apt-get install ubuntu-restricted-extras -y && 
 	sudo apt-get install unace unrar zip unzip p7zip-full p7zip-rar sharutils rar -y && 
 	sudo apt-get install unity-tweak-tool -y && 
+	sudo apt-get install compizconfig-settings-manager -y && 
 	sudo apt-get install bleachbit -y && 
 	sudo apt-get install git-all -y && 
 	sudo apt-get install qbittorrent -y && 
@@ -86,7 +87,7 @@ Baixar temas: https://github.com/kennyh7279/plank-themes
 
 ### 3.3 – VS Code
 	{
-	    "workbench.colorTheme": "Monokai Classic",
+	    "workbench.colorTheme": "Monokai",
 	    "workbench.iconTheme": "material-icon-theme",
 	    "editor.fontFamily": "'Code Saver', 'Apercu Pro Mono', 'Anonymous Pro Minus', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
 	    "window.zoomLevel": 0.8,
