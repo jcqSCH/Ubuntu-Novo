@@ -11,6 +11,7 @@ https://ubuntu.com/download/alternative-downloads#bittorrent
 **PowerShell:** https://github.com/PowerShell/PowerShell#get-powershell <br/> 
 **Spotify:** https://www.spotify.com/br/download/linux/ <br/>
 **Google Chrome:** https://www.google.com/chrome/browser/desktop/
+**OpenRGB:** https://openrgb.org/releases.html
 
 <br/>
 
