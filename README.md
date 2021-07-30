@@ -10,7 +10,7 @@ https://ubuntu.com/download/alternative-downloads#bittorrent
 **VS Code:** https://code.visualstudio.com/download/ <br/> 
 **PowerShell:** https://github.com/PowerShell/PowerShell#get-powershell <br/> 
 **Spotify:** https://www.spotify.com/br/download/linux/ <br/>
-**Google Chrome:** https://www.google.com/chrome/browser/desktop/
+**Google Chrome:** https://www.google.com/chrome/browser/desktop/ <br/>
 **OpenRGB:** https://openrgb.org/releases.html
 
 <br/>
